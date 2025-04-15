@@ -117,9 +117,6 @@ The application is built with a modular architecture:
 - **GUI**: ImGui-based interface with node editor and properties panel
 - **Image Processing**: OpenCV-based implementation of various image processing algorithms
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
